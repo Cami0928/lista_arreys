@@ -17,3 +17,4 @@ estoque.shift()
 console.log("Primeiro item removido!")
 console.log("Novo estoque:", estoque)
 console.log("Novo estoque:", estoque)
+/* exemplo de comentário */
